@@ -14,4 +14,4 @@
  *Carpe Diem*
  
  
- **My email** :  [mailto](mailto: sinhaishaan46@gmail.com)
+ **My email** :  (mailto: sinhaishaan46@gmail.com)
