@@ -5,7 +5,7 @@
  I am a second year undergrad in **Chemical Engineering** at **National Institure of Technology Durgpur** and have recently developed interest in coding and development.
  
  
- Currently learning Backend development using Nodejs, Express, ReactJS, MySQL.
+ Currently learning Backend development using Nodejs, Express, ReactJS, MongoDB.
  
  
  Am a news and cricket junkie.
