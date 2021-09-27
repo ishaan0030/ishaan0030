@@ -1,4 +1,4 @@
-# Hi there I am Ishaun Sinha 👋
+# Hi there I am Ishaan Sinha 👋
 
 ## Welcome to my Github Account
 
